@@ -6,6 +6,7 @@ The goal is to simulate a real-world AI security workflow:
   - **Build** a detector to classify images as REAL or FAKE
   - **Break** the detector using adversarial modifications
   - **Improve** the system by analyzing vulnerabilities and proposing defenses
+
 🔗 **Delpoyed link:** https://shamanistic-deirdre-noncalculably.ngrok-free.dev
 
 ### 🗂️ Dataset
