@@ -20,7 +20,8 @@ The goal is to simulate a real-world AI security workflow:
 ### 🛡️ Adversarial Experiments
 - Gaussian noise perturbations  
 - Gaussian blur (artifact suppression)  
-- FGSM attack  
+- FGSM attack
+
 These experiments show the detector’s sensitivity to high-frequency artifacts.
 
 ### 🚀 Proposed Improvement
