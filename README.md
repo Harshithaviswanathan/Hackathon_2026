@@ -3,9 +3,10 @@
 ### 📌 Overview
 This project implements a complete pipeline for detecting AI-generated images and evaluating model robustness.  
 The goal is to simulate a real-world AI security workflow:
-  - Build a detector to classify images as REAL or FAKE
-  - Break the detector using adversarial modifications
-  - Improve the system by analyzing vulnerabilities and proposing defenses
+  - **Build** a detector to classify images as REAL or FAKE
+  - **Break** the detector using adversarial modifications
+  - **Improve** the system by analyzing vulnerabilities and proposing defenses
+🔗 **Delpoyed link:** https://shamanistic-deirdre-noncalculably.ngrok-free.dev
 
 ### 🗂️ Dataset
 **CIFAKE** — 120k images (Real vs Synthetic, 32×32 RGB)
@@ -24,5 +25,5 @@ These experiments show the detector’s sensitivity to high-frequency artifacts.
 ### 🚀 Proposed Improvement
 Adversarial training with frequency-aware augmentations to improve robustness.
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 Python, PyTorch, Torchvision, NumPy, Matplotlib, Scikit-learn
